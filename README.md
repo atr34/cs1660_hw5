@@ -15,4 +15,4 @@
 ![Alt text](https://github.com/atr34/cs1660_hw5/blob/main/Images/finishedShakespare.png)
  
 
-submission data in `top5.txt`
+resulting data in `top5.txt`
